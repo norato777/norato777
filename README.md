@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @norato777
-- 👀 I’m interested in learning programming
+- 👋 Hi, I’m Eddie
+- 👀 I’m learning programming
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on websites design, apps design
-- 📫 Contact me to eddienorato@gmail.com
+- 📫 Contact me to norato777@gmail.com
 
 <!---
 norato777/norato777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
