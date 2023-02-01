@@ -4,7 +4,7 @@
 ### <div align="center">I'm Edd, a full-stack developer, learning programming and growing since 2021</div>  
   
 
-- 🔭 I’m currently learning TypeScript, NextJS, Angular and Cyber security  
+- 🔭 I’m currently learning Phyton, TypeScript, NextJS, Angular and Cyber security  
   
 
 - 🌱 I’m currently working on personal projects to continue learning  
